@@ -33,6 +33,10 @@ Although I received help while learning and coding this, every line of this proj
 1. Compile the C source file using any Windows-compatible C compiler (MSVC or MinGW recommended):
 2. or am giving a compiled form for example!
 
+##SAMPLE RUN
+![image](https://github.com/user-attachments/assets/34a7c468-ec4b-4ae2-9187-45029f367c44)
+
+
 ##FUTURE UPDATES
 I'll now continue developing system level programs and you are also welcome from heart for contributions!
 
